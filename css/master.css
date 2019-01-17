@@ -1,0 +1,51 @@
+
+  body {
+    background-image: url('../img/fondo-01.jpg');
+    background-color: #000;
+  }
+  h1, h3 {
+    color: #8258FA;
+  }
+
+  .botones {
+    cursor: pointer;
+
+  }
+  .botones:hover {
+    filter: opacity(.5);
+  }
+  table{
+    position: absolute; top: 45%; width:80%; right: 15%;
+  }
+  footer {
+    position: absolute; top: 120%; height: 95%;
+  }
+  .respuestas {
+    cursor: pointer;
+    color: #FFFF00;
+    padding: 4%;
+    box-sizing: border-box;
+    margin-left: 50%;
+
+  }
+  .respuestas:hover {
+    box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px;
+
+  }
+.encabezado{
+  padding: 12%;
+}
+
+.acerca {
+  color: #fff;
+}
+.modal-content {
+  background-color: #000;
+  background-image: url('../img/mystery-157015_1280.png');
+  background-size: 100% 100%;
+  color: #fff;
+}
+
+.glyphicon-info-sign {
+   color: #FFFF00;
+}
