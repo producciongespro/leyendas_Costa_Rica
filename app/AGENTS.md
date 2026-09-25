@@ -36,7 +36,6 @@ leyendas_Costa_Rica/
 │   ├── index.html            <-- Shell HTML con SEO y Google Tag
 │   ├── package.json
 │   └── vite.config.js
-├── app_old/                  <-- Resguardo histórico del proyecto original (Bootstrap 3/jQuery)
 └── documentacion/            <-- Documentación institucional externa adicional
 ```
 
