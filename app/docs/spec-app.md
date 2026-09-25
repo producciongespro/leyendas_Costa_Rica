@@ -35,6 +35,7 @@ Este componente no recibe props externas ya que es montado por [`src/main.jsx`](
 ## 5. Diseño y Disposición (Tailwind CSS)
 
 * **Layout general:** `min-h-screen`, `flex flex-col justify-between`, fondo gobernado por el body en `index.css`.
+* **Despeje del Título:** Espaciado superior `pt-28 sm:pt-40 md:pt-48 lg:pt-56` diseñado para evitar que las tarjetas colisionen o tapen el título artístico "Leyendas de Costa Rica" del fondo en todas las resoluciones.
 * **Grilla de Leyendas:**
   * Móvil: `grid-cols-1`.
   * Pantallas medianas y grandes (`sm:`): `grid-cols-3` emulando las columnas `col-xs-4` del diseño original.
