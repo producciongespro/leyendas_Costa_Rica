@@ -37,7 +37,7 @@ Define la colección oficial e inmutable en el cliente de las 9 leyendas costarr
 | `pasovaca` | Leyenda Paso Vaca | `img/paso_vaca-01.png` | `data/pasovaca.pdf` | `data/respuestas/pas-vaca.docx` |
 | `piedrablanca` | Leyenda Piedra Blanca | `img/misterio-01.png` | `data/piedrablancaf.pdf` | `data/respuestas/misteri-piedra.docx` |
 | `sanramon` | Leyenda San Ramón | `img/piedra_snrmon-01.png` | `data/sanramon.pdf` | `data/respuestas/piedraSanR.docx` |
-| `turrialba` | Leyenda Turrialba | `img/leyenda-01.png` | `data/turrialba.pdf` | `data/respuestas/turrialba.docx` |
+| `turrialba` | Leyenda Turrialba | `img/leyenda-01.png` | `data/turrialba.pdf` | `data/respuestas/Turrialba.docx` |
 
 ---
 

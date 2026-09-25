@@ -31,8 +31,8 @@ export default function App() {
       {/* Reproductor de audio misterio */}
       <AudioPlayer />
 
-      {/* Contenedor principal con espacio suficiente para despejar el titulo del fondo */}
-      <main className="container mx-auto px-4 pt-28 sm:pt-40 md:pt-48 lg:pt-56 pb-12 max-w-5xl">
+      {/* Contenedor principal con espacio suficiente para despejar el titulo del fondo y enmarcarse entre los arboles */}
+      <main className="container mx-auto px-6 sm:px-12 md:px-16 pt-24 sm:pt-36 md:pt-44 lg:pt-48 pb-12 max-w-4xl">
         {/* Rejilla de 9 leyendas: 3 columnas idéntico a col-xs-4 */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-y-12 sm:gap-y-16 gap-x-6">
           {leyendasData.map((leyenda) => (

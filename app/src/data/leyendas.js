@@ -60,6 +60,6 @@ export const leyendasData = [
     titulo: 'Leyenda Turrialba',
     imagen: 'img/leyenda-01.png',
     pdf: 'data/turrialba.pdf',
-    respuestas: 'data/respuestas/turrialba.docx',
+    respuestas: 'data/respuestas/Turrialba.docx',
   },
 ];

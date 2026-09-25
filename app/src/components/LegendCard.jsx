@@ -22,6 +22,7 @@ export default function LegendCard({ leyenda }) {
       {/* Botón de descarga de Respuestas */}
       <a
         href={leyenda.respuestas}
+        download
         className="mt-3 inline-flex items-center gap-1.5 text-[#FFFF00] hover:text-yellow-300 font-bold text-sm tracking-wide transition-all duration-200 hover:drop-shadow-[0_0_8px_rgba(0,0,255,0.8)] focus:outline-none"
         title={`Descargar respuestas de ${leyenda.titulo}`}
       >
