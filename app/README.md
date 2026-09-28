@@ -39,6 +39,12 @@ npm install
 # Iniciar servidor de desarrollo en http://localhost:5173
 npm run dev
 
+# Ejecutar linter rápido (Oxlint)
+npm run lint
+
+# Ejecutar suite de pruebas unitarias y de responsividad (Vitest)
+npm run test
+
 # Compilar para producción en dist/
 npm run build
 

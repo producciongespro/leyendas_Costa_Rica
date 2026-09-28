@@ -36,7 +36,7 @@ Este componente es puramente de presentación (Stateless). No gestiona estados l
   * Efecto hover: `hover:opacity-50 hover:scale-105` con transición suave (`transition-all duration-300`), recreando el comportamiento del sitio original.
   * Tamaño: Limitado a un ancho máximo responsivo de `max-w-[280px]` centrado.
 * **Enlace de Respuestas:**
-  * Envuelto en un enlace directo de descarga.
+  * Envuelto en un enlace directo con atributo `download` para asegurar la descarga inmediata del archivo Word en cualquier navegador.
   * Iconografía: `CloudDownload` de `lucide-react`.
   * Estilo tipográfico: Color amarillo original `#FFFF00`, negrita, con efecto de brillo azul en hover (`hover:drop-shadow-[0_0_8px_rgba(0,0,255,0.8)]`).
 
